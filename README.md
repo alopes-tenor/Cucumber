@@ -19,3 +19,24 @@ como o software deve se comportar em situações do mundo real.
 # Desenvolvimento e testes
 A partir da atividade proposta, foi criada uma classe de Conta bancária em Java, para que fossem aplicadas a metodologia BDD e o framework Cucumber.
 
+# Estrutura do projeto
+Os arquivos e as pastas do projeto estão na seguinte estrutura, conforme a imagem.
+
+![image](https://github.com/alopes-tenor/Cucumber/assets/83618366/fac9efb7-2018-45b2-a23f-9d2a8d3e916c)
+
+# Main - Conta bancária.
+Foi criada uma classe Conta que representa uma conta bancária que posteriormente fossem aplicados os cenários de teste. 
+
+![image](https://github.com/alopes-tenor/Cucumber/assets/83618366/8f87a804-ffae-43c6-ade7-68b6b0662080)
+
+# Cucumber - Cenários de testes.
+Para a criação dos cenários de teste, foi utilizada a linguagem de especificação Gherkin, esta linguagem é utilizada principalmente em práticas BDD, e é projetada para ser legível tanto para máquinas quanto seres humanos. Ela utiliza as seguintes marcações para contextualizar o código.
+*Given – dado um contexto;*
+*When – quando acontecer um evento;*
+*Then – então se espera que aconteça algo.*
+![image](https://github.com/alopes-tenor/Cucumber/assets/83618366/ac3a4ba1-0d70-4f1d-9544-79bdcfff1d97)
+
+
+# Data da última alteração: 01/12/2023 às 07:55
+
+
